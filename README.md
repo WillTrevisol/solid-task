@@ -1,12 +1,11 @@
-# flutter_project_template
-📖 Template for flutter projects using solid_lints, CI for tests and analysis.
+# flutter_solid-task
 
-- Uses latest stable flutter
-- Repo name as your project name
-- Organization from your profile email address or default
+That is a test project with the purpose to change the color by pressing anywhere on the screen.
 
-# Usage
-1. Press "Use this template" on the menu.
-2. Fill Github form with your new repo name and press "Create repository from template"
-3. Wait for it to be created and set up action is complete. In a couple of minutes, you'll see the flutter project created in your repo once Github Actions are complete.
-4. Clone and code.
+    Functionabilities:
+        Press on the screen -> Change de background color.
+        Long Press on the screen -> Run an animated color changing.
+
+<center>
+<img src="screenrecord.gif" width="250"/>
+</center>
