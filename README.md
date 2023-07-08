@@ -1,8 +1,8 @@
-# flutter_solid-task
+# flutter_solid_task
 
 That is a test project with the purpose to change the color by pressing anywhere on the screen.
 
-    Functionabilities:
+    Functionalities:
         Press on the screen -> Change de background color.
         Long Press on the screen -> Run an animated color changing.
 
